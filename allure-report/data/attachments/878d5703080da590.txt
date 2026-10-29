@@ -1,0 +1,6 @@
+SelectByValue 10
+4
+g
+Alert message: ×
+ Alert!
+Product Created Successfully
